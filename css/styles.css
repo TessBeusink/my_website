@@ -26,7 +26,6 @@ img {
 }
 
 .jumbotron{
-	grid-area: jumbotron;
 	min-height: 400px;
 	background: url("../images/picture1.jpeg");
 	background-size: cover;
@@ -50,10 +49,6 @@ img {
 	color: yellow;
 }
 
-.container {
-	display: grid;
-	grid-gap: 20px;
-}
 
 /*Navigation */
 .main-nav a {
@@ -110,7 +105,6 @@ footer {
 }
 
 .jumbotron-fluid {
-	grid-area: jumbotron-fluid;
 	min-height: 400px;
 	background: url("../images/art.jpg");
 	background-size: cover;
